@@ -21,13 +21,13 @@ StarkSeal is a secure, private commit-reveal auction protocol built on Starknet.
    ```bash
    npm run dev
    ```
-3. Open [http://localhost:3000](http://localhost:3000) in your browser.
+3. Open [http://localhost:7153](http://localhost:7153) in your browser.
 
 ## Starknet Contract
 
 - Address: `0x03e915de50fe62d90305e41fa31d7eff8c005244311c1253dae9d74af88df1e1`
 - RPC: `https://starknet-sepolia.public.blastapi.io/rpc/v0_8`
-- ABI: See `src/lib/starkseal.ts`
+- ABI: See `src/assets/ABI.ts`
 
 ## Project Structure
 
