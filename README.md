@@ -33,4 +33,4 @@ StarkSeal is a secure, private commit-reveal auction protocol built on Starknet.
 
 - `/src/pages` - App Router pages (commit, reveal, dashboard)
 - `/src/components/layout` - Reusable UI components
-- `/public/logo.png` - Dapp logo
+- `/public/images` - Dapp logo
