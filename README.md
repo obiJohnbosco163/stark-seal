@@ -1,6 +1,6 @@
 # StarkSeal Dapp
 
-StarkSeal is a secure, private commit-reveal auction protocol built on Starknet. This Dapp allows users to participate in auctions using a three-phase process: Commit, Reveal, and Finalize. Built with Next.js, TypeScript, Tailwind CSS, and Starknet.js.
+StarkSeal is a secure, private commit-reveal auction protocol built on Starknet. This Dapp allows users to participate in auctions using a three-phase process: Commit, Reveal, and Finalize. Built with JavaScript, Vite, TypeScript, Tailwind CSS, and Starknet.js.
 
 ## Features
 
